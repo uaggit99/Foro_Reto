@@ -56,7 +56,7 @@
 </br>
 
 <p align="center" >
-     <img width="600" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/base%20de%20datos.png">
+     <img width="600" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/ejecucion.png">
 </p></br>
 
 
