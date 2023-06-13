@@ -16,17 +16,17 @@
 ## Pruebas realziadas en  Potsman
 
 <p align="center" >
-     <img width="300" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
 </p>
 
 <p align="center" >
-     <img width="300" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/listadotopicos.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/listadotopicos.png">
 </p>
 
 <p align="center" >
-     <img width="300" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/modificadotopico.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/modificadotopico.png">
 </p>
 
 <p align="center" >
-     <img width="300" heigth="300" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
 </p>
