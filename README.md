@@ -17,16 +17,16 @@
 
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
-</p>
+</p></br></br>
 
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/listadotopicos.png">
-</p>
+</p></br></br>
 
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/modificadotopico.png">
-</p>
+</p></br></br>
 
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
-</p>
+</p></br></br>
