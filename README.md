@@ -30,3 +30,7 @@
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
 </p></br></br>
+
+### El proyecto tiene el CRUD  para el usuario , en el registro de un usuario  envia un correo al Email ingresado
+### con el loggin y la clave llamado al EmailService
+ 
