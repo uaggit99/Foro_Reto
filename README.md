@@ -35,13 +35,13 @@
 ### El proyecto tiene el CRUD  para el usuario , en el registro de un usuario  envia un correo al Email ingresado
 ### con el login y la clave llamado al EmailService
 </br>
-### El proyecto ejecuta en Token en el momento de realizar el proceso de Autenticacion del usuario (login)
-### El proyecto tiene el CRUD para respuestas del Foro
+- El proyecto ejecuta en Token en el momento de realizar el proceso de Autenticacion del usuario (login)
+- El proyecto tiene el CRUD para respuestas del Foro
 
 ## Pruebas realizadas en Insomnia
 
 <p align="center" >
-     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/pruebasInsomnia.png">
 </p></br></br>
 
 
