@@ -48,7 +48,7 @@
 </br>
 
 <p align="center" >
-     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/base%20de%20datos.png">
 </p></br>
 
 
