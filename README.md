@@ -13,7 +13,7 @@
   - [Spring Security](https://start.spring.io/)
   - [Token JWT](https://jwt.io/)
 
-## Pruebas realziadas en  Potsman
+## Pruebas realizadas  en  Potsman
 
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
@@ -30,9 +30,22 @@
 <p align="center" >
      <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/deletelogicotopico.png">
 </p></br>
-+ text in green
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
+
+
 ### El proyecto tiene el CRUD  para el usuario , en el registro de un usuario  envia un correo al Email ingresado
-### con el loggin y la clave llamado al EmailService
+### con el login y la clave llamado al EmailService
+</br>
+### El proyecto ejecuta en Token en el momento de realizar el proceso de Autenticacion del usuario (login)
+### El proyecto tiene el CRUD para respuestas del Foro
+
+## Pruebas realizadas en Insomnia
+
+<p align="center" >
+     <img width="600" heigth="400" src="https://github.com/uaggit99/Foro_Reto/blob/main/imagenes/registrotopico.png">
+</p></br></br>
+
+
+
+
 
  
