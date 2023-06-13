@@ -33,10 +33,9 @@
 
 
 ### El proyecto tiene el CRUD  para el usuario , en el registro de un usuario  envia un correo al Email ingresado
-### con el login y la clave llamado al EmailService
-</br>
-- El proyecto ejecuta en Token en el momento de realizar el proceso de Autenticacion del usuario (login)
-- El proyecto tiene el CRUD para respuestas del Foro
+### con el login y la clave llamado al EmailService</br>
+### El proyecto ejecuta en Token en el momento de realizar el proceso de Autenticacion del usuario (login)
+### El proyecto tiene el CRUD para respuestas del Foro
 
 ## Pruebas realizadas en Insomnia
 
